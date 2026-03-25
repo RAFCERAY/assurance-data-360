@@ -7,7 +7,7 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## 🚀 Dashboard en ligne
-👉 [Accéder au dashboard](https://rafceray-assurance-data-360-dashboard-app.streamlit.app)
+👉 [Accéder au dashboard](https://assurance-data-360-9jmtapxzar3orjozu7bf7k.streamlit.app/)
 
 ## 📊 Description
 Simulation complète du travail d'un Data Manager senior dans une compagnie d'assurance fictive — 71 875 lignes de données omnicanales analysées de bout en bout.
