@@ -1,0 +1,6 @@
+canal,nb_total,nb_abandon,nb_escalade,satisfaction_moy,duree_moy,taux_abandon_pct,taux_escalade_pct
+agence,9678,1962,484,7.01,51.79,20.27,5.0
+app_mobile,11283,2322,552,5.96,7.5,20.58,4.89
+email,5397,1078,239,5.93,7.56,19.97,4.43
+telephone,8046,1612,377,7.0,16.04,20.03,4.69
+web,13233,2634,693,6.01,7.45,19.9,5.24
